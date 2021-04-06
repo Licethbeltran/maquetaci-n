@@ -1,0 +1,873 @@
+/*pagina1*/
+
+
+.padre{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.7%;
+  height: 100px;
+}
+.barra{
+  background-color: rgb(255,74,0);
+  position: absolute;
+  width: 40vh;
+  height: 60px;
+  margin: 20px;
+  border: 10px;
+}
+.barra1{
+  background-color: white;
+  position: absolute;
+  width: 180px;
+  height: 40px;
+  margin: 30px;
+  left: 700px;
+}
+.barra2{
+  background-color: white;
+  position: absolute;
+  width: 180px;
+  height: 40px;
+  margin: 30px;
+  left: 900px;
+}
+.barra3{
+  background-color: rgb(230,163,50);
+  position: absolute;
+  width: 180px;
+  height: 40px;
+  margin: 30px;
+  left: 1100px;
+}
+
+.color{
+  background-color: rgb(40,37,37);
+  width: 100%;
+  height: 117%;
+  position: absolute;
+  z-index: 1;
+}
+.gris{
+  background-color: rgb(66,67,67);
+  left: 62px;
+  width: 90%;
+  height: 117%;
+  position: absolute;
+  z-index: 2;
+}
+.grisclarito{
+  background-color: rgb(108,107,106);
+  right: 50px;
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  z-index: 3;
+}
+.naranja{
+  background-color: rgb(255,74,0);
+  left: 120px;
+  top: 50px;
+  width:25%;
+  height:0;
+  padding-top:15%;
+  position: absolute;
+  z-index: 4
+}
+.delgado1{
+  background-color: rgb(237,227,234);
+  left: 120px;
+  top: 250px;
+  width:30%;
+  height:0;
+  padding-top:2%;
+  position: absolute;
+  z-index: 5
+
+}
+.comentario{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 290px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 6
+
+}
+.comentario2{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 320px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 7
+}
+.comentario3{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 350px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 7
+
+}
+.amarillo{
+  background-color: rgb(230,163,50);
+  left: 120px;
+  top: 380px;
+  width:15%;
+  height:0;
+  padding-top:15%;
+  position: absolute;
+  z-index: 9
+}
+.delgado2{
+  background-color: rgb(237,227,234);
+  left: 120px;
+  top: 585px;
+  width:30%;
+  height:0;
+  padding-top:2%;
+  position: absolute;
+  z-index: 10
+}
+.comentario4{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 625px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 11
+}
+.comentario5{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 655px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 12
+}
+.comentario6{
+  background-color: rgb(90,90,92);
+  left: 120px;
+  top: 685px;
+  width:40%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 13
+}
+.caja1{
+  background-color: rgb(148,150,154);
+  right: 81px;
+  top: 30px;
+  width: 15%;
+  height:0;
+  padding-top:3%;
+  position: absolute;
+  z-index: 14
+}
+.comentario7{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 90px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 15
+}
+.comentario8{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 120px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 16
+}
+.comentario9{
+  background-color: rgb(90,90,92);
+  right: 115px;
+  top: 150px;
+  width: 12%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 17
+}
+.caja2{
+  background-color: rgb(148,150,154);
+  right: 81px;
+  top: 200px;
+  width: 15%;
+  height:0;
+  padding-top:3%;
+  position: absolute;
+  z-index: 18
+}
+.comentario10{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 260px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 19
+}
+.comentario11{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 290px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 20
+}
+.comentario12{
+  background-color: rgb(90,90,92);
+  right: 115px;
+  top: 320px;
+  width: 12%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 21
+}
+.caja3{
+  background-color: rgb(148,150,154);
+  right: 81px;
+  top: 370px;
+  width: 15%;
+  height:0;
+  padding-top:3%;
+  position: absolute;
+  z-index: 22
+}
+.comentario13{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 430px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 23
+}
+.comentario14{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 460px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 24
+}
+.comentario15{
+  background-color: rgb(90,90,92);
+  right: 115px;
+  top: 490px;
+  width: 12%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 25
+}
+.caja4{
+  background-color: rgb(148,150,154);
+  right: 81px;
+  top: 540px;
+  width: 15%;
+  height:0;
+  padding-top:3%;
+  position: absolute;
+  z-index: 26
+}
+.comentario16{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 600px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 27}
+.comentario17{
+  background-color: rgb(90,90,92);
+  right: 92px;
+  top: 630px;
+  width: 14%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 28
+}
+.comentario18{
+  background-color: rgb(90,90,92);
+  right: 115px;
+  top: 660px;
+  width: 12%;
+  height:0;
+  padding-top:1%;
+  position: absolute;
+  z-index: 29
+}
+/*pagina 2*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre2{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.7%;
+  height: 300px;
+}
+.cuadroamarillo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+
+}
+.parrafo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+ }
+.cajagris{
+    background-color: rgb(65,64,69);
+    position: relative;
+    width: 90vh;
+    height: 400px;
+    margin: 50px;
+}
+.cajagris2{
+  background-color: rgb(65,65,67);
+  right: 50px;
+  width: 30%;
+  height: 160%;
+  position: absolute;
+ }
+ .rectangorange2{
+     background-color:rgb(89,89,91);
+     display: flex;
+     width: 100%;
+     height: 10em;
+ }
+ .textosub{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.cuadrorojo1{
+  background-color: rgb(196,31,62);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.cuadrorojo2{
+  background-color: rgb(236,28,35);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}
+.cuadrorojo3{
+  background-color: rgb(204,31,40);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+}
+.subti1{
+  left: 150px;
+  position: absolute;
+}
+.text1{
+  top: 40px;
+  left: 150px;
+  position: absolute;
+}
+.cuadrorojo4{
+  background-color: rgb(241,90,80);
+  position: relative;
+  width: 130px;
+  height: 130px;
+  margin: 50px;
+} 
+.textone{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+
+}
+/*pagina 3*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.padre3{
+  background-color: rgb(89,89,91);
+  position: relative;
+  width: 101.7%;
+  height: 100px;
+}
+.barra4{
+  background-color: white;
+  position: absolute;
+  width: 15vh;
+  height: 40px;
+  margin: 30px;
+  border: 10px;
+}
+.barra5{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 800px;
+}
+.barra6{
+  background-color: gray;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 870px;
+}
+.barra7{
+  background-color: white;
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  margin: 30px;
+  left: 950px;
+}
+.barra8{
+  background-color: orange;
+  position: absolute;
+  width: 50px;
+  height: 40px;
+  margin: 30px;
+  left: 1230px;
+}
+.cuadroytexto{
+  background-color: rgb(194,32,64);
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 50px;
+}
+.parrafo3{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.titu32{
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5px;
+} 
+.cuadrogris1{
+  background-color:rgb(65,65,67);
+  position: relative;
+  width: 65em;
+  height: 500px;
+  margin: 50px;
+}
+.parrafocaja{
+  display: flex;
+  justify-content: center;
+ }
+
+ .rectangorangn{
+  position: relative;
+  right: 60px;
+  background-color: rgb(65,65,67);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+ .rectangorangm{
+  position: relative;
+  right: 60px;
+  background-color: rgb(87,89,91);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+ .rectangorangb{
+  position: relative;
+  right: 60px;
+  background-color: rgb(112,111,116);
+  display: flex;
+  width: 100%;
+  height: 4em;
+}
+/*pagina 4*/
+.texto{
+  font-size: 14px;
+}
+.tituloo{
+  font-size: 20px;
+}
+.cuadrogranderojo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(196,31,62);
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.triangle1{
+  width: 0; 
+  height: 0; 
+  border-left: 88px solid white;
+  border-top: 65px solid transparent;
+  border-bottom: 65px solid transparent;
+}
+/*pagina 5*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+header{
+    background-color: #404042;
+    width: 100%;
+    / define altura de pantalla*/
+    height: 50vh;
+}
+.distribucion{
+    display: flex;
+}
+.cajaroja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #c21d3d;
+    width: 100%;
+    height: 45vh;
+    margin: 15px;
+    padding: 10px;
+}
+.triangle{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid white;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+ h1{
+     color: white;
+     text-align: center;
+
+ }
+ p{
+     color: white;
+ }
+ .cajaparrafo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding: 30px;
+ }
+ .rectangorange{
+     background-color: orange;
+     display: flex;
+     width: 100%;
+     height: 10em;
+ }
+ .cajader{
+     background-color: #404042;
+ }
+ h2{
+     color: white;
+ }
+ /*pagina 6*/
+ {
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.distribucion2{
+  background-color:rgb(89,89,91);
+  display:flex;
+  align-items: center;
+  height: 5em;
+}
+.cuadrogris{
+  background-color:gray;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.cuadroblanco{
+  background-color:white;
+  width: 100%;
+  height: 60%;
+  padding: 10px;
+}
+.cuadrorange{
+  background-color: orange;
+  width:100%;
+  height:60%;
+  padding: 10px;
+}
+.asd{
+  background-color: #2b2b2d;
+  display: flex;
+  height: 70vh;
+}
+.oraange{
+  background-color: orange;
+  color:white;
+}
+.carousel-item2{
+ background-color: rgb(65,65,67);
+  position: relative;
+  width: 75em;
+  height: 70vh;
+}
+.k{
+  position: relative;
+  right: 60px;
+  background-color: orange;
+  display: flex;
+  width: 100%;
+  height: 10em;
+}
+.l{
+  position: relative;
+  right: 60px;
+}
+.p{
+  background-color: rgb(44,44,46);
+}
+/*pagina7*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.cuadrograngriss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.cuadroblancoo{
+  background-color:white;
+  width: 50vh;
+  height: 8%;
+}
+.cuadrorangez{
+  position: absolute;
+  right: 480px;
+  background-color: orange;
+  width: 5vh;
+  height: 5%;
+}
+.cuadroamarilloo{
+  background-color: rgb(230,163,50);
+  position: relative;
+  width: 250px;
+  height: 250px;
+  margin-top: 25px;
+}
+.parrafo8{
+ display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+}
+.cuadrogrisop{
+  margin: 25px;
+  margin-left: 100px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.po{
+  margin-top: 15px;
+  font-size: 80%;
+}
+.qaz2{
+  margin-left: 30px;
+}
+.cuadrograngriss1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+/*pagina8*/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.cuadrograngrisss{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+  width: 100%;
+  height: 65vh;
+  margin: 15px;
+  padding: 10px;
+}
+.pequegris{
+  margin-top: 300px;
+  margin-left: 30px;
+  background-color: gray;
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.naranjaa{
+  color: orange;
+}
+.cuadrogrisopp{
+  margin: 20px;
+  background-color: rgb(65,70,67);;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadrogrisopp1{ 
+  margin: 20px;
+  background-color: rgb(87,89,91);;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadrogrisopp2{
+  margin: 20px;
+  background-color: rgb(108,110,114);;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.parrafoo{
+  margin-top: 200px;
+}
+.alinear{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cuadrogrisopp3{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadrogrisopp4{ 
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.cuadrogrisopp5{
+  margin: 20px;
+  background-color: gray;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.parrafoo{
+  margin-top: 200px;
+}
+.alinear{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alinear2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/Pagina 9/
+{
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: rgb(40,37,37);
+}
+.naranjaa1{
+  color: orange;
+  text-align: left;
+}
+.pñgris{
+  margin: 20px;
+  background-color: rgb(65,65,67);
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+.grislargo{
+  margin: 20px;
+  background-color: rgb(44,44,46);
+  position: relative;
+  width: 79%;
+  height: 150px;
+}
+.tituliyos{
+  color: orange;
+}
+
